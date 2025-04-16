@@ -5,12 +5,14 @@
 #### Introduction to Machine Learning Key Concepts  
 
     A Tour of ML classifiers (supervised/unsupervised learning)   
-    Decision Trees and Ensemble Methods  
+    Decision Trees and Ensemble Methods 
+    Bagging & Boosting   
     Practical Examples  
 
 #### Shallow Neural Networks  
 
     The Perceptron  
+    Gradient Descent 
     Back Propagation Algorithm  
     Nonlinear mapping: Activation Functions  
     Practical Examples  
